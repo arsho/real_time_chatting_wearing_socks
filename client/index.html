@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title>Codalo Chat</title>
+		<link rel="stylesheet" href="assets/css/font-awesome/css/font-awesome.min.css">		
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
+	</head>
+	<body>
+	<div class="container" id="join_div">
+		<div class="row">
+			<div class="col-sm-4 col-centered">
+				<div class="panel panel-primary"> 
+					<div class="panel-heading"> 
+						<h3 class="panel-title">Join Chat</h3> 
+					</div> 
+					<div class="panel-body"> 
+						<div class="form-group">
+							<label for="user_name">Username</label>
+							<input type="text" class="form-control" id="user_name" placeholder="Enter Username">
+						</div>											 
+					</div> 
+					<div class="panel-footer">
+						<button id="join_btn" class="btn btn-primary btn-block"><i class="fa fa-envelope"></i> Enter Chat</button>
+					</div>
+				</div>		
+			</div>		  
+		</div><!--./row-->		
+	</div>	
+	<div class="container" id="chat_div">
+		<div class="row">
+			<div class="col-sm-6 col-centered">
+				<div class="panel panel-primary"> 
+					<div class="panel-heading"> 
+						<h3 class="panel-title">Codalo Chatroom</h3> 
+					</div> 
+					<div class="panel-body fixed-panel"> 
+						<ul class="list-group" id="chat_content">
+						  					  
+						</ul>											 
+					</div> 
+					<div class="panel-footer">	
+						<div class="form-group">
+							<textarea id="user_message" rows="2" class="form-control" placeholder="Enter your message here"></textarea>
+						</div>					
+						<button id="chat_btn" class="btn btn-primary btn-block"><i class="fa fa-send"></i> Send</button>
+					</div>
+				</div>		
+			</div>		  
+		</div><!--./row-->		
+	</div>	
+
+		<script src="assets/js/jquery-1.11.0.min.js"></script>
+		<script src="assets/js/sockjs-1.1.1.min.js"></script>		
+		<script src="assets/js/chat_client.js"></script>	
+
+	</body>
+</html>

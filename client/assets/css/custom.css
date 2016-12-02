@@ -1,0 +1,19 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.form-group {
+    margin-bottom: 5px !important;
+}
+.panel-body {
+    padding: 5px 10px !important;
+}
+body{
+	padding: 20px !important;
+	background: url("../images/bg2.jpg");
+}
+.fixed-panel {
+  min-height: 300px;
+  max-height: 300px;
+  overflow-y: scroll;
+}
