@@ -20,7 +20,7 @@
 <h3>
 <a id="learn-more" class="anchor" href="#learn-more" aria-hidden="true"><span class="octicon octicon-link"></span></a>Learn more:</h1>
 </h3>
-Take a look at this presentation <a href="http://www.slideshare.net/AhmedurRahmanShovon/websockets-and-sockjs">WebSockets && SockJS</a>.
+Take a look at this presentation <a href="http://www.slideshare.net/AhmedurRahmanShovon/websockets-and-sockjs-real-time-chatting">WebSockets && SockJS</a>.
 
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
