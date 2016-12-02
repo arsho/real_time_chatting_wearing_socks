@@ -12,8 +12,8 @@
 </h3>
 <ol>
 <li>Download and install <a href="https://nodejs.org/en/download/">Node.js</a>.</li>
-<li>Install SockJS-node using Node Package Manager(NPM): `npm install sockjs` </li>
-<li>Open `client\index.html` file in two tabs of your favourite browser.</li>
+<li>Install SockJS-node using Node Package Manager(NPM): ` npm install sockjs ` </li>
+<li>Open ` client\index.html ` file in two tabs of your favourite browser.</li>
 <li>Start chatting in real time!</li>
 </ol>
 
