@@ -3,17 +3,17 @@
  Hopeful that JS lovers find this interesting.
  <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" height="20" width="20" align="absmiddle">
 </p>
-<p><b>Real time chatting</b>
+<h3>Real time chatting Demo</h3>
 ![alt real_time_chatting_wearing_socks Demo](https://raw.githubusercontent.com/arsho/real_time_chatting_wearing_socks/master/real_time_chatting.png)
 <hr>
-</p>
+
 <h3>
 <a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to use:</h1>
 </h3>
 <ol>
 <li>Download and install <a href="https://nodejs.org/en/download/">Node.js</a>.</li>
-<li>Install SockJS-node using Node Package Manager(NPM): ```npm install sockjs```</li>
-<li>Open ```client\index.html``` file in two tabs of your favourite browser.</li>
+<li>Install SockJS-node using Node Package Manager(NPM): `npm install sockjs` </li>
+<li>Open `client\index.html` file in two tabs of your favourite browser.</li>
 <li>Start chatting in real time!</li>
 </ol>
 
