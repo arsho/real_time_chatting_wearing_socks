@@ -4,7 +4,9 @@
  <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" height="20" width="20" align="absmiddle">
 </p>
 <h3>Real time chatting Demo</h3>
+
 ![alt real_time_chatting_wearing_socks Demo](https://raw.githubusercontent.com/arsho/real_time_chatting_wearing_socks/master/real_time_chatting.png)
+
 <hr>
 
 <h3>
@@ -20,7 +22,12 @@
 <h3>
 <a id="learn-more" class="anchor" href="#learn-more" aria-hidden="true"><span class="octicon octicon-link"></span></a>Learn more:</h1>
 </h3>
-Take a look at this presentation <a href="http://www.slideshare.net/AhmedurRahmanShovon/websockets-and-sockjs-real-time-chatting">WebSockets && SockJS</a>.
+Take a look at this presentation <a href="http://www.slideshare.net/AhmedurRahmanShovon/websockets-and-sockjs-real-time-chatting">
+WebSockets && SockJS
+
+![alt WebSockets && SockJS](https://raw.githubusercontent.com/arsho/real_time_chatting_wearing_socks/master/presentation.png)
+
+</a>.
 
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
