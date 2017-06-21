@@ -27,7 +27,6 @@ WebSockets && SockJS
 
 ![alt WebSockets && SockJS](https://raw.githubusercontent.com/arsho/real_time_chatting_wearing_socks/master/presentation.png)
 
-</a>.
-
+</a>
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
